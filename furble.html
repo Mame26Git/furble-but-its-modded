@@ -14,11 +14,11 @@
 <!-- menu button and menu -->
 <button id='hamburger'>☰</button>
 <div id='menu'>
-    <h2>FurBLE</h2>
+    <h2>FurBLE but they're extra DLCs</h2>
     <ul>
         <li><a href='#actions'>Actions</a></li>
         <li><a href='#misc'>Misc</a></li>
-        <li><a href='#dlc'>DLC Upload</a></li>
+        <li><a href='#dlc'>DLC Upload Lab</a></li>
         <li><a href='#sensors'>Sensors</a></li>
         <li><a href='#debug'>Debug</a></li>
     </ul>
@@ -28,7 +28,7 @@
 <div class='header'>
         <button id='connbtn' onclick='doConnectDisconnect()'>Connect</button>
     <div><h1>FurBLE</h1>
-    <span id='state'>Not connected</span></div>
+    <span id='state'>Not connected...</span></div>
     
 </div>
 
@@ -41,6 +41,8 @@
             <button onclick='setAntennaColor(0, 255,0)'>Green</button>
             <button onclick='setAntennaColor(0, 0, 255)'>Blue</button>
             <button onclick='setAntennaColor(255, 255, 255)'>White</button>
+            <button onclick='setAntennaColor(0, 0,0)'>Empty</button>
+            <button onclick='setAntennaColor(204, 204,255)'>Unknown Colour</button>
         </div>
     </section>
 
