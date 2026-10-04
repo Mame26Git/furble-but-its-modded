@@ -8,7 +8,8 @@ var furby_uuids = {
     'RSSIListen':        'dab90755-b5a1-e29c-b041-bcd562613bde',
     'F2FListen':         'dab91440-b5a1-e29c-b041-bcd562613bde',
     'F2FWrite':          'dab91441-b5a1-e29c-b041-bcd562613bde',
-    'FileWrite':         'dab90758-b5a1-e29c-b041-bcd562613bde'
+    'FileWrite':         'dab90758-b5a1-e29c-b041-bcd562613bde',
+    'DeviceName':        '0x2A00'
 }
 
 var file_transfer_modes = {
