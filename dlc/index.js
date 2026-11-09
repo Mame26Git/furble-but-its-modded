@@ -7,8 +7,8 @@
         ]
     },
     { 
-        "file": "hacked.dlc", 
-        "title": "HACKED",
+        "file": "tu003000.dlc", 
+        "title": "tests",
         "buttons": [
             { "title": "Hacked 1", "action": [75,0,3,4] },
             { "title": "Hacked 2", "action": [75,0,4,4] }
