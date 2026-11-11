@@ -3,7 +3,7 @@
         "file": "m9y3ei.DLC", 
         "title": "yeahtest",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "thest", "action": [75,0,4,4] }
         ]
     },
     { 
